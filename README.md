@@ -7,28 +7,28 @@ This repository contains qualifications and coursework related to data architect
 
 |                                                      Career Tracks                                                      | Completed  |
 | :---------------------------------------------------------------------------------------------------------------------- | :--------: |
-| [Python Programmer](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230712_Python_Programmer-SOA.pdf)    | 12/07/2023 |
-| [R Programmer (new)](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230407_R_Programmer_(new)-SOA.pdf)  | 07/04/2023 |
-| [R Programmer](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230216_R_Programmer-SOA.pdf)              | 16/02/2023 |
+| [Python Programmer](https://github.com/Katsuvest/Data_Architect/blob/master/20230712_Python_Programmer-SOA.pdf)    | 12/07/2023 |
+| [R Programmer (new)](https://github.com/Katsuvest/Data_Architect/blob/master/20230407_R_Programmer_(new)-SOA.pdf)  | 07/04/2023 |
+| [R Programmer](https://github.com/Katsuvest/Data_Architect/blob/master/20230216_R_Programmer-SOA.pdf)              | 16/02/2023 |
 
 
 |                                                                        Skill Tracks                                                                         | Completed  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
-| [Analysizing Genomic Data](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230426_Analyzing_Genomic_Data_in_R-SOA.pdf)                       | 26/04/2023 |
-| [Image Processing with Python](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230730_Image_Processing_with_Python-SOA.pdf)                  | 30/07/2023 |
-| [Interactive Data Visualization with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230328_Interactive_Data_Visualization_in_R-SOA.pdf)  | 28/03/2023 |
-| [Network Analysis with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230421_Network_Analysis_with_R-SOA.pdf)                            | 21/05/2023 |
-| [Python Fundamentals](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230511_Python_Fundamentals-SOA.pdf)                                    | 11/05/2023 |
-| [Python Programming](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230713_Python_Programming-SOA.pdf)                                      | 13/07/2023 |
-| [Python Toolbox](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230702_Python_Toolbox-SOA.pdf)                                              | 02/07/2023 |
-| [R Programming](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230203_R_Programming-SOA.pdf)                                                | 03/02/2023 |
-| [Shiny Fundamentals with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230508_Shiny_Fundamentals_with_R-SOA.pdf)                        | 08/05/2023 |
-| [Spatial Data with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230410_Spactial_Data_with_R-SOA.pdf)                                   | 10/04/2023 |
-| [Statistical Fundamentals with Python](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230203_Statistics_Fundamentals_with_R-SOA.pdf)        | 03/02/2023 |
-| [Statistical Interface with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230418_Statistical_Inference_with_R-SOA.pdf)                  | 18/04/2023 |
-| [Statistics Fundamentals with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230613_Statistical_Fundamentals_with_Python-SOA.pdf)        | 13/06/2023 |
-| [Tidyverse Fundamentals with R](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230322_Tidyverse_Fundamentals_with_R-SOA.pdf)                | 22/03/2023 |
-| [Understanding Data Topics](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230715_Understanding_Data_Topics-SOA.pdf)                        | 15/07/2023 |
+| [Analysizing Genomic Data](https://github.com/Katsuvest/Data_Architect/blob/master/20230426_Analyzing_Genomic_Data_in_R-SOA.pdf)                       | 26/04/2023 |
+| [Image Processing with Python](https://github.com/Katsuvest/Data_Architect/blob/master/20230730_Image_Processing_with_Python-SOA.pdf)                  | 30/07/2023 |
+| [Interactive Data Visualization with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230328_Interactive_Data_Visualization_in_R-SOA.pdf)  | 28/03/2023 |
+| [Network Analysis with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230421_Network_Analysis_with_R-SOA.pdf)                            | 21/05/2023 |
+| [Python Fundamentals](https://github.com/Katsuvest/Data_Architect/blob/master/20230511_Python_Fundamentals-SOA.pdf)                                    | 11/05/2023 |
+| [Python Programming](https://github.com/Katsuvest/Data_Architect/blob/master/20230713_Python_Programming-SOA.pdf)                                      | 13/07/2023 |
+| [Python Toolbox](https://github.com/Katsuvest/Data_Architect/blob/master/20230702_Python_Toolbox-SOA.pdf)                                              | 02/07/2023 |
+| [R Programming](https://github.com/Katsuvest/Data_Architect/blob/master/20230203_R_Programming-SOA.pdf)                                                | 03/02/2023 |
+| [Shiny Fundamentals with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230508_Shiny_Fundamentals_with_R-SOA.pdf)                        | 08/05/2023 |
+| [Spatial Data with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230410_Spactial_Data_with_R-SOA.pdf)                                   | 10/04/2023 |
+| [Statistical Fundamentals with Python](https://github.com/Katsuvest/Data_Architect/blob/master/20230203_Statistics_Fundamentals_with_R-SOA.pdf)        | 03/02/2023 |
+| [Statistical Interface with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230418_Statistical_Inference_with_R-SOA.pdf)                  | 18/04/2023 |
+| [Statistics Fundamentals with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230613_Statistical_Fundamentals_with_Python-SOA.pdf)        | 13/06/2023 |
+| [Tidyverse Fundamentals with R](https://github.com/Katsuvest/Data_Architect/blob/master/20230322_Tidyverse_Fundamentals_with_R-SOA.pdf)                | 22/03/2023 |
+| [Understanding Data Topics](https://github.com/Katsuvest/Data_Architect/blob/master/20230715_Understanding_Data_Topics-SOA.pdf)                        | 15/07/2023 |
 
 ## Courses
 
