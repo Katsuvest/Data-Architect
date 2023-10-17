@@ -8,7 +8,7 @@ This repository contains qualifications and coursework related to data architect
 |                                                      Career Tracks                                                      | Completed  |
 | :---------------------------------------------------------------------------------------------------------------------- | :--------: |
 | [Python Programmer](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230712_Python_Programmer-SOA.pdf)    | 12/07/2023 |
-| [R Programmer (new) (https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230407_R_Programmer_(new)-SOA.pdf)  | 07/04/2023 |
+| [R Programmer (new)] (https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230407_R_Programmer_(new)-SOA.pdf) | 07/04/2023 |
 | [R Programmer](https://github.com/Katsuvest/Data-Data_Architect/blob/master/20230216_R_Programmer-SOA.pdf)              | 16/02/2023 |
 
 
